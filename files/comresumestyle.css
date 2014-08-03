@@ -1,0 +1,55 @@
+
+
+/* Form Style */
+.RESUME_FORM_1  {border:1px solid #c1c1c1;color:#111;background-color:#fff;border:1px solid #f00;font-size:12px;padding:0;margin:0;vertical-align:middle;}
+.RESUME_FORM_1D {border:1px solid #b1b3bb;background-color:#eaebee;border:1px solid #f00;font-size:12px;padding:0;margin:0;vertical-align:middle;}
+
+
+.RESUME_FORM_1R {border:1px solid #b1b3bb;background-color:transparent;font-size:12px;padding:0;margin:0;vertical-align:middle;}
+
+/* Combo Form Style */
+.RESUME_FORM_5  {border:1px solid #c1c1c1;color:#111;background-color:#fff;font-size:12px;padding: 4px 30px 4px 10px !important; margin: 0 -23px 0px 0; vertical-align:middle; cursor:pointer;}
+.RESUME_FORM_5D {border:1px solid #b1b3bb;background-color:#eaebee;color:#111;font-size:12px;padding: 4px 30px 4px 10px !important; margin: 0 -23px 0px 0; vertical-align:middle; cursor:pointer;}
+.RESUME_FORM_5R {border:1px solid #b1b3bb;background-color:transparent;color:#111;font-size:12px;padding: 4px 30px 4px 10px !important; margin: 0 -23px 0px 0; vertical-align:middle; cursor:pointer;}
+
+.RESUME_FORM_2  {border:1px solid #c1c1c1;background-color:#f7f7f7;font-size:12px;padding:0;margin:0;vertical-align:middle;}
+.RESUME_FORM_3  {border:1px solid #c1c1c1;background-color:#fff;color:#526FA5;font-size:12px;padding:0;margin:0;vertical-align:middle;}
+.RESUME_FORM_33 {border:1px solid #c1c1c1;background-color:#00B6FF;color:#526FA5;font-size:12px;padding:0;margin:0;vertical-align:middle;}
+
+
+.RESUME_FORM_4	{width: 95% !important;color: #111;background-color: #fff;font-size: 12px;padding: 2px 0 2px 0 !important;margin: 0 2px 0 2px !important;vertical-align: middle;}
+
+.bgpuz{font-size:12px;color:#333;line-height:24px;text-align:center;background-repeat:no-repeat;}
+
+/*
+.timetitleL {width:25px;border-bottom:rgb(193,203,234) 0.75px solid;text-align:center;border-left:rgb(193,203,234) 0.75px solid;background:rgb(119,126,181);height:29.81px;vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;bordeR-RIGHT:medium none; color:#fff;font-size:10px;font-weight:bold;}
+.timetitleC {border-bottom:rgb(193,203,234) 0.75px solid;text-align:center;border-left;none;background:rgb(119,126,181);vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;border-right: none; color:#fff;font-size:10px;font-weight:bold;}
+.timetitleR {border-bottom:rgb(193,203,234) 0.75px solid;text-align:center;border-left;none;background:rgb(119,126,181);vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;border-right:rgb(193,203,234) 0.75px solid;color:#fff;font-size:10px;font-weight:bold;}
+.timeodd{height:24px;border-bottom:rgb(193,203,234) 0.75px solid;text-align:center; background:rgb(238,240,250);vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;  font-size:10px;}
+.timeeven {height:24px;border-bottom:rgb(193,203,234) 0.75px solid;text-align:center;vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;font-size:10px;}
+
+.timeoddR{height:24px;border-right:rgb(193,203,234) 0.75px solid;border-bottom:rgb(193,203,234) 0.75px solid;text-align:center;background:rgb(238,240,250);vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;font-size:10px;}
+.timeevenR {height:24px;bordeR-RIGHT:rgb(193,203,234) 0.75px solid;border-bottom:rgb(193,203,234) 0.75px solid;text-align:center;vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;font-size:10px;}
+.timeoddL{height:24px;border-left:rgb(193,203,234) 0.75px solid;border-bottom:rgb(193,203,234) 0.75px solid;text-align:center;background:rgb(238,240,250);vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;font-size:10px;}
+.timeevenL {height:24px;border-left:rgb(193,203,234) 0.75px solid;border-bottom:rgb(193,203,234) 0.75px solid;text-align:center;vertical-align:middle;border-top:rgb(193,203,234) 0.75px solid;font-size:10px;}
+
+.ACA	{background:rgb(238,240,250);cursor:pointer;z-index:100;overflow:hidden;position:absolute;border:rgb(253,61,2) 2px solid;text-align:center;vertical-align:middle;font-size:4px;font-weight:normal;}
+.OUT	{background:rgb(238,240,250);cursor:pointer;z-index:100;overflow:hidden;position:absolute;border:rgb(211,102,167) 2px solid;text-align:center;vertical-align:middle;font-size:4px;font-weight:normal;}
+.CAR	{background:rgb(238,240,250);cursor:pointer;z-index:100;overflow:hidden;position:absolute;border:rgb(111,157,237) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:normal;}
+.MIL	{background:rgb(238,240,250);cursor:pointer;z-index:100;overflow:hidden;position:absolute;border:rgb(117,148,27) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:normal;}
+.OVS	{background:rgb(238,240,250);cursor:pointer;z-index:100;overflow:hidden;position:absolute;border:rgb(100,204,213) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:normal;}
+.CERT	{background:rgb(238,240,250);cursor:pointer;z-index:100;overflow:hidden;position:relative;border:rgb(0,255,255) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:normal;}
+.ECT	{background:rgb(238,240,250);cursor:pointer;z-index:100;overflow:hidden;position:absolute;border:rgb(133,133,133) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:normal;}
+.FOCUS 	{cursor:pointer; z-index:102; background:rgb(74,126,187);overflow:hidden;position:absolute;border:rgb(255,0,0) 2px solid;text-align:center;vertical-align:middle;font-size:6px;color:#fff;font-weight: bold;}
+
+.ACA_ON	{background:rgb(238,240,250);cursor:pointer;z-index:102;overflow:hidden;position:absolute;border:rgb(183,1,1) 2px solid;text-align:center;vertical-align:middle;font-size:4px;font-weight:bold;}
+.OUT_ON	{background:rgb(238,240,250);cursor:pointer;z-index:102;overflow:hidden;position:absolute;border:rgb(183,1,1) 2px solid;text-align:center;vertical-align:middle;font-size:4px;font-weight:bold;}
+.CAR_ON	{background:rgb(238,240,250);cursor:pointer;z-index:102;overflow:hidden;position:absolute;border:rgb(1,1,183) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:bold;}
+.MIL_ON	{background:rgb(238,240,250);cursor:pointer;z-index:102;overflow:hidden;position:absolute;border:rgb(1,183,1) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:bold;}
+.OVS_ON	{background:rgb(238,240,250);cursor:pointer;z-index:102;overflow:hidden;position:absolute;border:rgb(1,183,1) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:bold;}
+.CERT_ON{background:rgb(238,240,250);cursor:pointer;z-index:102;overflow:hidden;position:relative;border:rgb(183,1,1) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:bold;}
+.ECT_ON	{background:rgb(238,240,250);cursor:pointer;z-index:102;overflow:hidden;position:absolute;border:rgb(183,1,1) 2px solid;text-align:center;vertical-align:middle;font-size:6px;font-weight:bold;}
+
+.HI_ON{cursor:pointer;z-index:102;overflow:hidden;position:absolute;border:rgb(183,1,1) 2px solid;text-align:center;vertical-align:middle;font-size:4px;font-weight:bold;}
+.HI_OFF {z-index:100;width:0;height:0;border:none;}
+*/
