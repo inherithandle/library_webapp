@@ -82,7 +82,7 @@
         	
         		$dbhost = 'localhost';
 				$dbuser = 'root';
-				$dbpass = 'macbuntu12';
+				$dbpass = 'passwd!';
 
 				$conn = mysql_connect($dbhost, $dbuser, $dbpass);
 				if(! $conn )
